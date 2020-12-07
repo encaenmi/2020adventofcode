@@ -14,4 +14,5 @@ def day1():
 
     f.close()
 
+
 day1()
